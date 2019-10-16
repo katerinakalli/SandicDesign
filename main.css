@@ -1,0 +1,47 @@
+#main {
+	margin-top: 5%;
+	text-align: center;
+}
+
+#nav {
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+#nav a {
+	color: black;
+}
+
+#nav a:hover {
+	text-shadow: 2px 2px 5px grey;
+	color: grey;
+	text-decoration: none;
+
+}
+
+#carouselExampleControls {
+	margin-top: 2%;
+	width: 70%;
+	margin-right: 15%;
+	margin-left: 15%;
+}
+.footer {
+	margin-top: 10%;
+	font-size: 1.1em;
+	position: relative;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 1rem;
+	text-align: center;
+}
+
+.footer a {
+	color: black;
+}
+
+.footer a:hover {
+	text-shadow: 2px 2px 5px grey;
+	color: grey;
+	text-decoration: none;
+}
