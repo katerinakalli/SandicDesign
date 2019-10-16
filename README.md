@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to SourceLair!
 
 Read the following instructions in order start working frictionlessly in SourceLair:
@@ -13,3 +14,6 @@ Read the following instructions in order start working frictionlessly in SourceL
 5. If you have any thoughts, issues or proposals for SourceLair, it would be great if you could send us an email at support@sourcelair.com
 
 Have fun coding in your browser!
+=======
+
+>>>>>>> ec0ca36905694e64e3bd05a11e0a192ca81850f0
